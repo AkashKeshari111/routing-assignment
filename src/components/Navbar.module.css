@@ -1,0 +1,9 @@
+.active {
+  color: red;
+  padding: 1rem;
+}
+
+.default {
+  color: black;
+  padding: 1rem;
+}
